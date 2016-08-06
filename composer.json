@@ -1,5 +1,5 @@
 {
-    "name": "daniel-farina/shopify-php-api-wrapper",
+    "name": "shopifyextras/shopify-php-api-wrapper",
     "description": "Shopify PHP (Guzzle 6.2.1) API Wrapper",
     "type": "library",
     "license": "MIT",
